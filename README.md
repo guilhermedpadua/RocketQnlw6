@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="Rocket.Q" title="Rocket.Q" src=".public/imgrocket.gif" width="220px" />
+  <img alt="Rocket.Q" title="Rocket.Q" src=".public/imgrocket.gif/>
 </h1>
 
 <p align="center">
@@ -47,4 +47,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.https://github.
 
 ---
 
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
+Guilherme de Pádua.
