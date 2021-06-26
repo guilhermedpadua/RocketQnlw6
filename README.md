@@ -1,4 +1,4 @@
-
+![web]!(https://github.com/guilhermedpadua/RocketQnlw6/blob/main/public/images/rocketimg.png)
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
